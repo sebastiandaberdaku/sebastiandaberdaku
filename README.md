@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+With over 4 years of experience as a data engineer and a PhD in Information Engineering, I am a passionate and skilled leader in designing and implementing efficient, scalable, and fault-tolerant data pipelines.
+
+My expertise lies in building and managing data ingestion pipelines with technologies such as Spark, Airflow, Python, DataBricks, TrinoDB, and the related cloud architecture (mainly AWS) with CloudFormation and Terraform. I have worked with diverse datasets in different domains, including bioinformatics (proteomics), clinical/health informatics, and finance. I have a strong background in research and data science, which enables me to apply a rigorous and analytical approach to solving complex problems and delivering innovative solutions. I also have experience in backend development in Python and Java (Spring Boot), and the SOLID programming principles in general.
+
+Throughout my career, I have led and contributed to various projects, both in industry and academia. These experiences have honed my skills in project management, stakeholder engagement, and collaboration with cross-functional teams. I am always seeking new opportunities to learn and grow, and I am committed to staying current with emerging technologies and best practices in the data engineering field. I am motivated by the challenge of transforming data into meaningful insights that can drive business value and social impact.
+
 <!--
 **sebastiandaberdaku/sebastiandaberdaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
