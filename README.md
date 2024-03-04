@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-With over 5 years of experience as a data engineer and a PhD in Information Engineering, I am a passionate about designing and implementing efficient, scalable, and fault-tolerant data pipelines.
+With over 5 years of experience as a data engineer and a PhD in Information Engineering, I am passionate about designing and implementing efficient, scalable, and fault-tolerant data pipelines.
 
 My expertise lies in building and managing data ingestion pipelines with technologies such as Spark, Airflow, Python, DataBricks, TrinoDB, and the related cloud architecture (mainly AWS) with CloudFormation and Terraform. I have worked with diverse datasets in different domains, including bioinformatics (proteomics), clinical/health informatics, and finance. I have a strong background in research and data science, which enables me to apply a rigorous and analytical approach to solving complex problems and delivering innovative solutions. I also have experience in backend development in Python and Java (Spring Boot), and the SOLID programming principles in general.
 
