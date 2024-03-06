@@ -6,6 +6,8 @@ My expertise lies in building and managing data ingestion pipelines with technol
 
 Throughout my career, I have led and contributed to various projects, both in industry and academia. These experiences have honed my skills in project management, stakeholder engagement, and collaboration with cross-functional teams. I am always seeking new opportunities to learn and grow, and I am committed to staying current with emerging technologies and best practices in the data engineering field. I am motivated by the challenge of transforming data into meaningful insights that can drive business value and social impact.
 
+Check out my professional resume [here](https://sebastiandaberdaku.github.io/resume/).
+
 <!--
 **sebastiandaberdaku/sebastiandaberdaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
